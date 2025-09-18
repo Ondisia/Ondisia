@@ -50,12 +50,3 @@
 </table>
 
 </div>
-
-
-
-## Activity On GitHub
-<p align="center">
-  <a href="https://github.com/Ondisia">      
-    <img title="GitHub Streak" alt="Streak" src="https://streak-stats.demolab.com/?user=Ondisia&theme=tokyonight&hide_border=true&stroke=f53b3b"/>
-  </a> 
-</p>
