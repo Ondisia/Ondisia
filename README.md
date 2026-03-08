@@ -18,10 +18,10 @@
 
 <div align="center">
 <br clear="both"/>
-🔭 Working at **PP Nurul Jadid** as Web Developer <br>
-🌱 Currently mastering **React Native** for mobile development <br>
-💡 Passionate about **clean code** and **modern UI/UX** <br>
-🎮 Fun fact: Hardcore **No Game No Life** <br>
+🔭 Working at PP Nurul Jadid as Web Developer <br>
+🌱 Currently mastering React Native for mobile development <br>
+💡 Passionate about clean code and modern UI/UX <br>
+🎮 Fun fact: Hardcore No Game No Life <br>
 
 ### 💬 Let's Talk About
 <p>
