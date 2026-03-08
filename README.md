@@ -16,13 +16,12 @@
   <img align="right" src="https://bayanbox.ir/view/1353559592827697052/programmer.gif" width="350" style="border-radius: 20px; margin-left: 20px;" />
 </div>
 
-<div align="left">
-
-### 🎯 Current Status
-- 🔭 Working at **PP Nurul Jadid** as Web Developer
-- 🌱 Currently mastering **React Native** for mobile development
-- 💡 Passionate about **clean code** and **modern UI/UX**
-- 🎮 Fun fact: Hardcore **No Game No Life** fan
+<div align="center">
+<br clear="both"/>
+🔭 Working at **PP Nurul Jadid** as Web Developer <br>
+🌱 Currently mastering **React Native** for mobile development <br>
+💡 Passionate about **clean code** and **modern UI/UX** <br>
+🎮 Fun fact: Hardcore **No Game No Life** <br>
 
 ### 💬 Let's Talk About
 <p>
@@ -109,15 +108,3 @@
 </div>
 
 ---
-
-<!-- Snake Animation -->
-<h2 align="center">🐍 Contribution Graph</h2>
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/Ondisia/Ondisia/output/github-contribution-grid-snake.svg)
-
-</div>
-
-<!-- Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f093fb,50:764ba2,100:667eea&height=120&section=footer*/>
