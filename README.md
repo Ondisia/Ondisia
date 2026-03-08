@@ -26,7 +26,7 @@ To build impactful, fast, and user-friendly digital solutions.
 ## 💼 Current Work
 
 🔹 Developing internal systems at **PP Nurul Jadid**  
-🔹 Building modern web applications using **Laravel, Vue, and React**  
+🔹 Building modern web applications using **Laravel, Django, Vue, and React**  
 🔹 Improving UI/UX and application performance  
 
 <br>
