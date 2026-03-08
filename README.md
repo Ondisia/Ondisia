@@ -104,7 +104,7 @@
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ondisia&theme=tokyonight&hide_border=true&background=0d1117&stroke=667eea&ring=764ba2&fire=f093fb&currStreakLabel=667eea" width="70%" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=Ondisia&theme=tokyonight&hide_border=true&background=0d1117&stroke=667eea&ring=764ba2&fire=f093fb" width="70%" alt="GitHub Streak" />
 
 </div>
 
@@ -114,10 +114,10 @@
 <h2 align="center">🐍 Contribution Graph</h2>
 
 <div align="center">
-  
-![Snake animation](https://github.com/Ondisia/Ondisia/blob/output/github-contribution-grid-snake.svg)
+
+![Snake animation](https://raw.githubusercontent.com/Ondisia/Ondisia/output/github-contribution-grid-snake.svg)
 
 </div>
 
 <!-- Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f093fb,50:764ba2,100:667eea&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f093fb,50:764ba2,100:667eea&height=120&section=footer*/>
