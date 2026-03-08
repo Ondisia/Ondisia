@@ -6,10 +6,28 @@
 
 ## 🚀 About Me
 
-🔭 Web Developer at **PP Nurul Jadid**  
-🌱 Currently learning **React Native**  
-💡 Passionate about **Clean Code & UI/UX**  
-🎯 Focus on **Web Application Development**
+💻 **Web Application Developer at PP Nurul Jadid**  
+Building and maintaining modern web applications for internal systems and digital services.
+
+📱 **Currently Learning**    
+React Native for cross-platform mobile application development.
+
+✨ **Focus Areas**    
+🔹Clean & maintainable code  
+🔹Modern UI / UX design  
+🔹Scalable web application architecture  
+🔹Performance optimization  
+
+🎯 **Goal**  
+To build impactful, fast, and user-friendly digital solutions.
+
+<br>
+
+## 💼 Current Work
+
+🔹 Developing internal systems at **PP Nurul Jadid**  
+🔹 Building modern web applications using **Laravel, Vue, and React**  
+🔹 Improving UI/UX and application performance  
 
 <br>
 
