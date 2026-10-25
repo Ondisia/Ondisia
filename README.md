@@ -1,13 +1,13 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=220&section=header&text=Moh.%20Ja'far%20Ilham%20R&fontSize=52&fontColor=fff&animation=wave&fontAlignY=35" alt="Header banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=220&section=header&text=Moh.%20Ja'far%20Ilham%20R&fontSize=52&fontColor=fff&animation=waving&fontAlignY=35" alt="Header banner" />
 
 <p>
-  <a href="https://github.com/Ondisia"><img src="https://img.shields.io/badge/GitHub-Ondisia-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  <a href="https://github.com/areybr"><img src="https://img.shields.io/badge/GitHub-areybr-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
   <a href="mailto:jakfar.ilham23@gmail.com"><img src="https://img.shields.io/badge/Email-jakfar.ilham23%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://wa.me/6282229062398"><img src="https://img.shields.io/badge/WhatsApp-+62%2082229062398-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
   <a href="https://instagram.com/black_domon"><img src="https://img.shields.io/badge/Instagram-black_domon-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Ondisia&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=areybr&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile views" />
 </p>
 
 <h3>Web Application Developer • UI/UX Enthusiast • Problem Solver</h3>
@@ -49,14 +49,14 @@ I currently work at <b>PP Nurul Jadid</b> where I develop internal systems and m
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://camo.githubusercontent.com/2267bc020dd42336e93b2cbdaee388902b992638fafb5ef519c0ec99d45ad58d/68747470733a2f2f73746174732d666976652d67616d6d612e76657263656c2e6170702f6170693f757365726e616d653d617265796272612673686f775f69636f6e733d74727565267468656d653d746f6b796f6e6967687426686964655f626f726465723d747275652662675f636f6c6f723d304431313137267469746c655f636f6c6f723d3643363346462669636f6e5f636f6c6f723d36433633464626746578745f636f6c6f723d4646464646462672616e6b5f69636f6e3d676974687562" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ondisia&layout=compact&theme=tokyonight" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=areybr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF&rank_icon=github" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=areybr&layout=compact&theme=tokyonight" alt="Top languages" />
 </p>
 
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ondisia&theme=tokyonight" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=areybr&theme=tokyonight" alt="GitHub streak" />
 </p>
 
 ## 🧩 Contribution Highlights
