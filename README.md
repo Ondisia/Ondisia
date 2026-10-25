@@ -1,94 +1,90 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=220&section=header&text=Moh.%20Ja'far%20Ilham%20R&fontSize=52&fontColor=fff&animation=waving&fontAlignY=35" alt="Header banner" />
+# Moh. Ja'far Ilham R
 
-<p>
-  <a href="https://github.com/areybr"><img src="https://img.shields.io/badge/GitHub-areybr-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-  <a href="mailto:jakfar.ilham23@gmail.com"><img src="https://img.shields.io/badge/Email-jakfar.ilham23%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://wa.me/6282229062398"><img src="https://img.shields.io/badge/WhatsApp-+62%2082229062398-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-  <a href="https://instagram.com/black_domon"><img src="https://img.shields.io/badge/Instagram-black_domon-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <img src="https://komarev.com/ghpvc/?username=areybr&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile views" />
-</p>
+### Web Application Developer
 
-<h3>Web Application Developer • UI/UX Enthusiast • Problem Solver</h3>
+<a href="https://github.com/areybr">GitHub</a> •
+<a href="mailto:jakfar.ilham23@gmail.com">Email</a> •
+<a href="https://wa.me/6282229062398">WhatsApp</a> •
+<a href="https://instagram.com/black_domon">Instagram</a>
 
 </div>
 
-## 🚀 About Me
+## About Me
 
-Hi, I'm <b>Moh. Ja'far Ilham R</b>, a passionate web application developer focused on building clean, scalable, and user-friendly digital products.
+I am a web application developer focused on building efficient, scalable, and user-friendly digital solutions. I enjoy turning business needs into practical systems that are easy to use and easy to maintain.
 
-I currently work at <b>PP Nurul Jadid</b> where I develop internal systems and modern web solutions to support operational needs and digital transformation.
+I currently work at PP Nurul Jadid, where I develop internal systems and modern web applications that support operational processes and digital transformation.
 
-- 💻 Building modern web applications
-- 📱 Learning React Native for mobile development
-- 🎯 Focused on clean architecture and maintainable code
-- ⚡ Improving UI/UX and system performance
+## Professional Summary
 
-## 🎯 Current Focus
+- Full-stack web developer with experience in developing business and internal systems
+- Focused on clean architecture, maintainability, and user experience
+- Able to translate business requirements into functional and reliable applications
+- Interested in modern frontend development, system improvement, and digital product quality
 
-- Developing internal systems and business applications
-- Building modern interfaces with Laravel, Django, Vue, and React
+## Core Expertise
+
+### Frontend
+- HTML, CSS, JavaScript
+- React
+- Vue.js
+- Tailwind CSS
+- Bootstrap
+
+### Backend
+- Laravel
+- Django
+- Node.js
+
+### Database
+- MySQL
+- PostgreSQL
+
+### Tools & Workflow
+- Git & GitHub
+- VS Code
+- API integration
+- UI/UX-oriented development
+
+## Current Focus
+
+- Developing internal business applications and operational systems
+- Building modern, responsive, and maintainable interfaces
 - Improving application performance and user experience
 - Learning cross-platform mobile development with React Native
 
-## 🛠 Tech Stack
+## What I Value in Development
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,tailwind,bootstrap,laravel,django,nodejs,mysql,postgresql,vscode,git,github" alt="Tech stack" />
-</p>
+- Clean and maintainable code
+- Clear system architecture
+- Good user experience
+- Practical solutions for real business needs
+- Continuous learning and improvement
 
-## 💼 Skills
+## Tech Stack
 
-- Frontend: HTML, CSS, JavaScript, React, Vue, Tailwind CSS, Bootstrap
-- Backend: Laravel, Django, Node.js
-- Database: MySQL, PostgreSQL
-- Tools: Git, GitHub, VS Code
-- Soft skills: Problem solving, teamwork, clean code, UI/UX thinking
+| Category | Technologies |
+| --- | --- |
+| Frontend | HTML, CSS, JavaScript, React, Vue, Tailwind CSS, Bootstrap |
+| Backend | Laravel, Django, Node.js |
+| Database | MySQL, PostgreSQL |
+| Tools | Git, GitHub, VS Code |
 
-## 📊 GitHub Stats
+## Work Style
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=areybr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF&rank_icon=github" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=areybr&layout=compact&theme=tokyonight" alt="Top languages" />
-</p>
+I approach software development with a balance of technical quality and business value. I aim to build solutions that are not only functional, but also structured, scalable, and comfortable for end users.
 
-## 🔥 GitHub Streak
+## Contact
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=areybr&theme=tokyonight" alt="GitHub streak" />
-</p>
-
-## 🧩 Contribution Highlights
-
-- Building practical web application projects
-- Creating maintainable UI and backend solutions
-- Improving workflows through internal system development
-- Continuously learning modern frontend and mobile technologies
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="mailto:jakfar.ilham23@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://wa.me/6282229062398">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-  <a href="https://instagram.com/black_domon">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Always%20Learning-React%20Native-FF6B6B?style=for-the-badge" alt="Always learning" />
-<img src="https://img.shields.io/badge/Open%20to%20Work-Available-4CAF50?style=for-the-badge" alt="Open to work" />
-
-</div>
+- Email: jakfar.ilham23@gmail.com
+- WhatsApp: +62 822-2906-2398
+- GitHub: github.com/areybr
+- Instagram: @black_domon
 
 ---
 
 <p align="center">
-  <i>“Build useful things, write clean code, and keep improving.”</i>
+  <i>Build useful things, write clean code, and keep improving.</i>
 </p>
