@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=220&section=header&text=Moh.%20Ja'far%20Ilham%20R&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=50" alt="Header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=220&section=header&text=Moh.%20Ja'far%20Ilham%20R&fontSize=52&fontColor=fff&animation=wave&fontAlignY=35" alt="Header banner" />
 
 <p>
   <a href="https://github.com/Ondisia"><img src="https://img.shields.io/badge/GitHub-Ondisia-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
@@ -49,7 +49,7 @@ I currently work at <b>PP Nurul Jadid</b> where I develop internal systems and m
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ondisia&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub stats" />
+  <img height="170" src="https://camo.githubusercontent.com/2267bc020dd42336e93b2cbdaee388902b992638fafb5ef519c0ec99d45ad58d/68747470733a2f2f73746174732d666976652d67616d6d612e76657263656c2e6170702f6170693f757365726e616d653d617265796272612673686f775f69636f6e733d74727565267468656d653d746f6b796f6e6967687426686964655f626f726465723d747275652662675f636f6c6f723d304431313137267469746c655f636f6c6f723d3643363346462669636f6e5f636f6c6f723d36433633464626746578745f636f6c6f723d4646464646462672616e6b5f69636f6e3d676974687562" alt="GitHub stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ondisia&layout=compact&theme=tokyonight" alt="Top languages" />
 </p>
 
