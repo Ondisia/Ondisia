@@ -1,7 +1,4 @@
 <div align="center">
-
-# Moh. Ja'far Ilham R
-
 <h3>Web Application Developer</h3>
 
 <p>
@@ -37,9 +34,6 @@ I currently work at PP Nurul Jadid, where I develop internal systems and modern 
 ## Core Skills
 
 ### Frontend
-- HTML
-- CSS
-- JavaScript
 - React
 - Vue.js
 - Tailwind CSS
@@ -81,12 +75,6 @@ I currently work at PP Nurul Jadid, where I develop internal systems and modern 
 - Practical solutions for real business needs
 - Continuous learning and improvement
 
-## GitHub Overview
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ondisia&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=F0F6FC" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ondisia&layout=compact&theme=tokyonight" alt="Top languages" />
-</p>
 
 ## Contact
 
