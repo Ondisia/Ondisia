@@ -2,32 +2,44 @@
 
 # Moh. Ja'far Ilham R
 
-### Web Application Developer
+<h3>Web Application Developer</h3>
 
-<a href="https://github.com/Ondisia">GitHub</a> •
-<a href="mailto:jakfar.ilham23@gmail.com">Email</a> •
-<a href="https://wa.me/6282229062398">WhatsApp</a> •
-<a href="https://instagram.com/black_domon">Instagram</a>
+<p>
+  <a href="https://github.com/Ondisia" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Ondisia-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="mailto:jakfar.ilham23@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-jakfar.ilham23%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://wa.me/6282229062398" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-+62%2082229062398-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="https://instagram.com/black_domon" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-black_domon-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
 
 </div>
 
 ## About Me
 
-I am a web application developer focused on building efficient, scalable, and user-friendly digital solutions. I enjoy turning business needs into practical systems that are easy to use and easy to maintain.
+I am a web application developer focused on creating efficient, scalable, and user-friendly digital solutions. I enjoy transforming business needs into practical systems that are reliable, maintainable, and easy to use.
 
-I currently work at PP Nurul Jadid, where I develop internal systems and modern web applications that support operational processes and digital transformation.
+I currently work at PP Nurul Jadid, where I develop internal systems and modern web applications to support operations, business processes, and digital transformation.
 
 ## Professional Summary
 
-- Full-stack web developer with experience in developing business and internal systems
+- Web developer with experience in building business and internal application systems
 - Focused on clean architecture, maintainability, and user experience
-- Able to translate business requirements into functional and reliable applications
-- Interested in modern frontend development, system improvement, and digital product quality
+- Skilled in translating business requirements into functional and reliable software
+- Experienced in frontend and backend development for modern web products
 
-## Core Expertise
+## Core Skills
 
 ### Frontend
-- HTML, CSS, JavaScript
+- HTML
+- CSS
+- JavaScript
 - React
 - Vue.js
 - Tailwind CSS
@@ -51,30 +63,30 @@ I currently work at PP Nurul Jadid, where I develop internal systems and modern 
 ## Current Focus
 
 - Developing internal business applications and operational systems
-- Building modern, responsive, and maintainable interfaces
+- Building responsive and maintainable interfaces
 - Improving application performance and user experience
 - Learning cross-platform mobile development with React Native
 
-## What I Value in Development
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,tailwind,bootstrap,laravel,django,nodejs,mysql,postgresql,vscode,git,github" alt="Tech stack" />
+</p>
+
+## What I Value
 
 - Clean and maintainable code
-- Clear system architecture
+- Structured system design
 - Good user experience
 - Practical solutions for real business needs
 - Continuous learning and improvement
 
-## Tech Stack
+## GitHub Overview
 
-| Category | Technologies |
-| --- | --- |
-| Frontend | HTML, CSS, JavaScript, React, Vue, Tailwind CSS, Bootstrap |
-| Backend | Laravel, Django, Node.js |
-| Database | MySQL, PostgreSQL |
-| Tools | Git, GitHub, VS Code |
-
-## Work Style
-
-I approach software development with a balance of technical quality and business value. I aim to build solutions that are not only functional, but also structured, scalable, and comfortable for end users.
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ondisia&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=F0F6FC" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ondisia&layout=compact&theme=tokyonight" alt="Top languages" />
+</p>
 
 ## Contact
 
