@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=Moh.%20Ja'far%20Ilham%20R&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Web%20Application%20Developer%20from%20Indonesia&descAlignY=55&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=Moh.%20Ja'far%20Ilham%20R&fontSize=50&fontColor=fff&animation=twinkling&fontFamily=Georgia" />
 
 <br>
 
@@ -13,10 +13,10 @@ Building and maintaining modern web applications for internal systems and digita
 React Native for cross-platform mobile application development.
 
 ✨ **Focus Areas**    
-🔹Clean & maintainable code  
-🔹Modern UI / UX design  
-🔹Scalable web application architecture  
-🔹Performance optimization  
+🔹 Clean & maintainable code  
+🔹 Modern UI / UX design  
+🔹 Scalable web application architecture  
+🔹 Performance optimization  
 
 🎯 **Goal**  
 To build impactful, fast, and user-friendly digital solutions.
@@ -41,9 +41,9 @@ To build impactful, fast, and user-friendly digital solutions.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ondisia&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ondisia&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ondisia&layout=compact&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ondisia&layout=compact&theme=tokyonight" />
 
 </p>
 
@@ -51,7 +51,7 @@ To build impactful, fast, and user-friendly digital solutions.
 
 ## 🔥 GitHub Streak
 
-<img src="https://streak-stats.demolab.com?user=Ondisia&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=Ondisia&theme=tokyonight" />
 
 <br><br>
 
