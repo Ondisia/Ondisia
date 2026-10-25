@@ -4,7 +4,7 @@
 
 ### Web Application Developer
 
-<a href="https://github.com/areybr">GitHub</a> •
+<a href="https://github.com/Ondisia">GitHub</a> •
 <a href="mailto:jakfar.ilham23@gmail.com">Email</a> •
 <a href="https://wa.me/6282229062398">WhatsApp</a> •
 <a href="https://instagram.com/black_domon">Instagram</a>
@@ -80,7 +80,7 @@ I approach software development with a balance of technical quality and business
 
 - Email: jakfar.ilham23@gmail.com
 - WhatsApp: +62 822-2906-2398
-- GitHub: github.com/areybr
+- GitHub: github.com/Ondisia
 - Instagram: @black_domon
 
 ---
